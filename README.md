@@ -1,4 +1,4 @@
-# CS_Monitor
+# CS Monitor
 A blogging web platform focused on discussion of computer science topics. This was developed as part of Software Development sessional course.
 # Main features
 1. Registration and Login
